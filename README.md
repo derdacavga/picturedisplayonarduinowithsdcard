@@ -7,6 +7,8 @@ sd card and reader
 St7789 display
 and jumper cables
 
+Video Link: https://youtu.be/un0DwKbqhFQ
+
 Lets continous with arduino code here it is. this code configure for st7789 240*280 resolation. With landscape view mode. Using a adafruit libraries.
  Sd card and display share a same spi pins.
 Exept cs pin. Sd card cs pi is different. You must be watch out. Connections on screen Every picture wait 2 second. you can change in here. 
